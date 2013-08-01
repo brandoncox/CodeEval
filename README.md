@@ -47,7 +47,7 @@ MODERATE:
 * Mth to last element	
 * Lowest Common Ancestor
 * First Non-Repeated Character
-* Remove Characters
+* Remove Characters - PASS
 * Endianness
 * Number of Ones
 * Sum of integers
