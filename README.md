@@ -25,7 +25,7 @@ EASY:
 * Self Describing Numbers
 * N Mod M
 * Hex to Decimal
-* Armstrong Numbers
+* Armstrong Numbers - PASS
 * Beautiful Strings
 * Query Board
 * Simple Sorting
