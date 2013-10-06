@@ -18,10 +18,10 @@ EASY:
 * Sum of Integers from File - PASS
 * Odd Numbers - PASS
 * File Size - PASS
-* Unique Elements
+* Unique Elements - PASS
 * Set Intersection
-* Rightmost Char
-* Happy Numbers
+* Rightmost Char - PASS
+* Happy Numbers - PASS
 * Self Describing Numbers
 * N Mod M
 * Hex to Decimal
