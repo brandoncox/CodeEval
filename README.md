@@ -54,7 +54,7 @@ MODERATE:
 * Decimal To Binary
 * Trailing String
 * Double Squares
-* Number Pairs
+* Number Pairs - PASS
 * Email Validation
 * Array Absurdity
 * Jolly Jumpers
