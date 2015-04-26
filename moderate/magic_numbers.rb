@@ -1,4 +1,9 @@
 def magic?(num)
+	
+	if num.uniq.size != num.size
+		return false
+	end
+
 	size = num.size
 	last = num[size-1]
 
